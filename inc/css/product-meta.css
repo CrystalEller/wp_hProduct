@@ -1,0 +1,22 @@
+#product_section table {
+    width: 100%;
+}
+
+#product_section table tr td:first-child {
+    width: 20%;
+}
+
+#product_section table tr td:last-child {
+    width: 80%;
+}
+
+#product_section table tr td input[type="text"] {
+    width: 100%;
+}
+
+#product_img_wrapper img
+{
+    padding: 8px 0;
+    display:block;
+}
+
